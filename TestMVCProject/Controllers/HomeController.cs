@@ -20,7 +20,12 @@ namespace TestMVCProject.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            var model = new WelcomeModel()
+            {
+                name = "Sabbir",
+                datetime = DateTime.Now
+            };
+            return View(model);
         }
 
         public IActionResult Privacy()
