@@ -6,13 +6,21 @@ using TestMVCProject.Models;
 
 namespace TestMVCProject.Services
 {
-    public class WelcomeService
+    public class WelcomeService : IWelcomeService
     {
+        private readonly IWelcomeRepo _welcomeRepo;
+
+        public WelcomeService(IWelcomeRepo welcomeRepo)
+        {
+            _welcomeRepo = welcomeRepo;
+        
+        }
+
         public WelcomeModel GetWelcomeModel()
         {
             var model = new WelcomeModel();
 
-            var data = new WelcomeRepo().GetWelcomeData();
+            var data = _welcomeRepo.GetWelcomeData();
 
             model.Name = data[0];
             model.Date = DateTime.Parse(data[1]);

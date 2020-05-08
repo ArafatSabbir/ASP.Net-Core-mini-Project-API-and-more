@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace TestMVCProject.Services
 {
-    public class WelcomeRepo
+    public class WelcomeRepo : IWelcomeRepo
     {
         public List<string> GetWelcomeData()
         {

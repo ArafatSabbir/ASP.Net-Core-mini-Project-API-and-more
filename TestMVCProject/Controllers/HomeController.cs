@@ -12,17 +12,25 @@ namespace TestMVCProject.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        //private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        private readonly IWelcomeService _welcomeservice;
+
+        //public HomeController(ILogger<HomeController> logger)
+        //{
+        //    _logger = logger;
+        //}
+
+        public HomeController(IWelcomeService welcomeService)
         {
-            _logger = logger;
+            _welcomeservice = welcomeService;
+
+
         }
 
         public IActionResult Index()
         {
-            var service = new WelcomeService();
-            var model = service.GetWelcomeModel();
+            var model = _welcomeservice.GetWelcomeModel();
             return View(model);
         }
 
