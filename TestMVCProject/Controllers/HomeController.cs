@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using TestMVCProject.Models;
+using TestMVCProject.Services;
 
 namespace TestMVCProject.Controllers
 {
@@ -20,11 +21,8 @@ namespace TestMVCProject.Controllers
 
         public IActionResult Index()
         {
-            var model = new WelcomeModel()
-            {
-                name = "Sabbir",
-                datetime = DateTime.Now
-            };
+            var service = new WelcomeService();
+            var model = service.GetWelcomeModel();
             return View(model);
         }
 

@@ -7,8 +7,8 @@ namespace TestMVCProject.Models
 {
     public class WelcomeModel
     {
-        public string name { get; set; }
-        public DateTime datetime { get; set; }
+        public string Name { get; set; }
+        public DateTime Date { get; set; }
 
     }
 }
