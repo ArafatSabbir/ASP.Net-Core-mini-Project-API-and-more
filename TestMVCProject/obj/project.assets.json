@@ -1425,6 +1425,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "Sabbir.TestMVCProject.Test/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Sabbir.TestMVCProject.Test.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sabbir.TestMVCProject.Test.dll": {}
+        }
       }
     }
   },
@@ -5384,6 +5394,11 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "Sabbir.TestMVCProject.Test/1.0.0": {
+      "type": "project",
+      "path": "../Sabbir.TestMVCProject.Test/Sabbir.TestMVCProject.Test.csproj",
+      "msbuildProject": "../Sabbir.TestMVCProject.Test/Sabbir.TestMVCProject.Test.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5392,7 +5407,8 @@
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 3.1.2",
       "Microsoft.AspNetCore.Identity.UI >= 3.1.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.2",
-      "Microsoft.EntityFrameworkCore.Tools >= 3.1.2"
+      "Microsoft.EntityFrameworkCore.Tools >= 3.1.2",
+      "Sabbir.TestMVCProject.Test >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5401,9 +5417,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arafa\\Desktop\\ASP.Net-Core\\TestMVCProject\\TestMVCProject.csproj",
-      "projectName": "TestMVCProject",
-      "projectPath": "C:\\Users\\arafa\\Desktop\\ASP.Net-Core\\TestMVCProject\\TestMVCProject.csproj",
+      "projectUniqueName": "C:\\Users\\arafa\\Desktop\\ASP.Net-Core\\TestMVCProject\\Sabbir.TestMVCProject.Web.csproj",
+      "projectName": "Sabbir.TestMVCProject.Web",
+      "projectPath": "C:\\Users\\arafa\\Desktop\\ASP.Net-Core\\TestMVCProject\\Sabbir.TestMVCProject.Web.csproj",
       "packagesPath": "C:\\Users\\arafa\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\arafa\\Desktop\\ASP.Net-Core\\TestMVCProject\\obj\\",
       "projectStyle": "PackageReference",
@@ -5420,7 +5436,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\arafa\\Desktop\\ASP.Net-Core\\Sabbir.TestMVCProject.Test\\Sabbir.TestMVCProject.Test.csproj": {
+              "projectPath": "C:\\Users\\arafa\\Desktop\\ASP.Net-Core\\Sabbir.TestMVCProject.Test\\Sabbir.TestMVCProject.Test.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

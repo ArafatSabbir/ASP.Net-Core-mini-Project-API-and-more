@@ -1,0 +1,9 @@
+C:\Users\arafa\Desktop\ASP.Net-Core\Sabbir.TestMVCProject.Test\bin\Debug\netcoreapp3.1\Sabbir.TestMVCProject.Test.deps.json
+C:\Users\arafa\Desktop\ASP.Net-Core\Sabbir.TestMVCProject.Test\bin\Debug\netcoreapp3.1\Sabbir.TestMVCProject.Test.dll
+C:\Users\arafa\Desktop\ASP.Net-Core\Sabbir.TestMVCProject.Test\bin\Debug\netcoreapp3.1\Sabbir.TestMVCProject.Test.pdb
+C:\Users\arafa\Desktop\ASP.Net-Core\Sabbir.TestMVCProject.Test\obj\Debug\netcoreapp3.1\Sabbir.TestMVCProject.Test.csprojAssemblyReference.cache
+C:\Users\arafa\Desktop\ASP.Net-Core\Sabbir.TestMVCProject.Test\obj\Debug\netcoreapp3.1\Sabbir.TestMVCProject.Test.csproj.CoreCompileInputs.cache
+C:\Users\arafa\Desktop\ASP.Net-Core\Sabbir.TestMVCProject.Test\obj\Debug\netcoreapp3.1\Sabbir.TestMVCProject.Test.AssemblyInfoInputs.cache
+C:\Users\arafa\Desktop\ASP.Net-Core\Sabbir.TestMVCProject.Test\obj\Debug\netcoreapp3.1\Sabbir.TestMVCProject.Test.AssemblyInfo.cs
+C:\Users\arafa\Desktop\ASP.Net-Core\Sabbir.TestMVCProject.Test\obj\Debug\netcoreapp3.1\Sabbir.TestMVCProject.Test.dll
+C:\Users\arafa\Desktop\ASP.Net-Core\Sabbir.TestMVCProject.Test\obj\Debug\netcoreapp3.1\Sabbir.TestMVCProject.Test.pdb
