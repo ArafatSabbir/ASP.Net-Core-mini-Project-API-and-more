@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="DataTypes.cs" />
     <Compile Remove="Variables.cs" />
   </ItemGroup>
 
