@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <Compile Remove="DataTypes.cs" />
+    <Compile Remove="StringManipulations.cs" />
     <Compile Remove="Variables.cs" />
   </ItemGroup>
 
