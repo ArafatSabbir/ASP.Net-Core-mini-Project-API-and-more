@@ -9,6 +9,7 @@
     <Compile Remove="ArrayInCSharp.cs" />
     <Compile Remove="DataTypes.cs" />
     <Compile Remove="FunWithNumbers.cs" />
+    <Compile Remove="MethodInCSharp.cs" />
     <Compile Remove="StringManipulations.cs" />
     <Compile Remove="UserInput.cs" />
     <Compile Remove="Variables.cs" />

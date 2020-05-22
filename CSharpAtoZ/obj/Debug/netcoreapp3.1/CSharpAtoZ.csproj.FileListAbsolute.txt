@@ -10,3 +10,4 @@ C:\Users\arafa\Desktop\ASP.Net-Core\CSharpAtoZ\obj\Debug\netcoreapp3.1\CSharpAto
 C:\Users\arafa\Desktop\ASP.Net-Core\CSharpAtoZ\obj\Debug\netcoreapp3.1\CSharpAtoZ.dll
 C:\Users\arafa\Desktop\ASP.Net-Core\CSharpAtoZ\obj\Debug\netcoreapp3.1\CSharpAtoZ.pdb
 C:\Users\arafa\Desktop\ASP.Net-Core\CSharpAtoZ\obj\Debug\netcoreapp3.1\CSharpAtoZ.genruntimeconfig.cache
+C:\Users\arafa\Desktop\ASP.Net-Core\CSharpAtoZ\obj\Debug\netcoreapp3.1\CSharpAtoZ.csprojAssemblyReference.cache
