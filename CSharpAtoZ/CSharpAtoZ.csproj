@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="ArrayInCSharp.cs" />
     <Compile Remove="DataTypes.cs" />
     <Compile Remove="FunWithNumbers.cs" />
     <Compile Remove="StringManipulations.cs" />
