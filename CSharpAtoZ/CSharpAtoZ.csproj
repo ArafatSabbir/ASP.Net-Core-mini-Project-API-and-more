@@ -15,6 +15,7 @@
     <Compile Remove="ReturnStatment.cs" />
     <Compile Remove="StringManipulations.cs" />
     <Compile Remove="SwitchStatement.cs" />
+    <Compile Remove="TwoDarray.cs" />
     <Compile Remove="UserInput.cs" />
     <Compile Remove="Variables.cs" />
     <Compile Remove="WhileLoop.cs" />
