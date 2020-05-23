@@ -16,6 +16,7 @@
     <Compile Remove="SwitchStatement.cs" />
     <Compile Remove="UserInput.cs" />
     <Compile Remove="Variables.cs" />
+    <Compile Remove="WhileLoop.cs" />
   </ItemGroup>
 
 </Project>
