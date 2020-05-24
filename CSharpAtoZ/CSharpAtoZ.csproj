@@ -9,6 +9,7 @@
     <Compile Remove="ArrayInCSharp.cs" />
     <Compile Remove="CalculatorWithIfElse.cs" />
     <Compile Remove="ClassAndObject.cs" />
+    <Compile Remove="ConstructorInCs.cs" />
     <Compile Remove="DataTypes.cs" />
     <Compile Remove="ExceptionHandling.cs" />
     <Compile Remove="ForLoop.cs" />
