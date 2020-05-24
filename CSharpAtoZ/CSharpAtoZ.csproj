@@ -17,6 +17,7 @@
     <Compile Remove="MethodInCSharp.cs" />
     <Compile Remove="ReturnStatment.cs" />
     <Compile Remove="SetterAndGetter.cs" />
+    <Compile Remove="StaticClass.cs" />
     <Compile Remove="StaticVariable.cs" />
     <Compile Remove="StringManipulations.cs" />
     <Compile Remove="SwitchStatement.cs" />
