@@ -16,6 +16,7 @@
     <Compile Remove="FunWithNumbers.cs" />
     <Compile Remove="MethodInCSharp.cs" />
     <Compile Remove="ReturnStatment.cs" />
+    <Compile Remove="SetterAndGetter.cs" />
     <Compile Remove="StringManipulations.cs" />
     <Compile Remove="SwitchStatement.cs" />
     <Compile Remove="TwoDarray.cs" />
