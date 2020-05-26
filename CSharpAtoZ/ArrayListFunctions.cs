@@ -33,11 +33,18 @@ namespace CSharpAtoZ
 
             myArrayList2.Reverse();
 
+            myArrayList2.Insert(1,"Dubai");
+
             foreach (object o in myArrayList2)
             {
                 Console.WriteLine(o);
             }
 
+
+            ArrayList myArrayList3 = new ArrayList();
+            myArrayList3.AddRange(myArrayList2);
+
+            string[] myAr = (string[])myArrayList2.ToArray(typeof(string)); // conver into normal array
 
 
             #endregion
