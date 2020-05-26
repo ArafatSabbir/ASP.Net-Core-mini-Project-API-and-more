@@ -19,6 +19,7 @@
     <Compile Remove="FunWithNumbers.cs" />
     <Compile Remove="Inheritance.cs" />
     <Compile Remove="MethodInCSharp.cs" />
+    <Compile Remove="QueueInCsharp.cs" />
     <Compile Remove="ReturnStatment.cs" />
     <Compile Remove="SetterAndGetter.cs" />
     <Compile Remove="StaticClass.cs" />
