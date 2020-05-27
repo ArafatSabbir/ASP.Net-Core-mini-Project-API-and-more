@@ -17,6 +17,7 @@
     <Compile Remove="ExceptionHandling.cs" />
     <Compile Remove="ForLoop.cs" />
     <Compile Remove="FunWithNumbers.cs" />
+    <Compile Remove="HashTableInCSharp.cs" />
     <Compile Remove="Inheritance.cs" />
     <Compile Remove="MethodInCSharp.cs" />
     <Compile Remove="QueueInCsharp.cs" />
