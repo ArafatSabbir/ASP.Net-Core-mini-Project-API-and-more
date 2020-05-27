@@ -22,6 +22,7 @@
     <Compile Remove="QueueInCsharp.cs" />
     <Compile Remove="ReturnStatment.cs" />
     <Compile Remove="SetterAndGetter.cs" />
+    <Compile Remove="StackInCsharp.cs" />
     <Compile Remove="StaticClass.cs" />
     <Compile Remove="StaticVariable.cs" />
     <Compile Remove="StringManipulations.cs" />
