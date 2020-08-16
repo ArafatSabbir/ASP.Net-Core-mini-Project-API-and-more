@@ -1,1 +1,1 @@
-# ASP.Net-Core
+# ASP.Net-Core practice and mini Projects.
