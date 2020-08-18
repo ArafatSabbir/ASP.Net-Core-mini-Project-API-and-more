@@ -1,11 +1,13 @@
 ﻿@page
-@model BookList.CreateModel
+@model BookList.EditModel
+
 
 <br />
-<h2 class=" text-info">Create New Book</h2>
+<h2 class=" text-info">Edit Book</h2>
 
 <div class="border container" style="padding:30px;">
     <form method="post">
+        <input type="hidden" asp-for="Book.Id" />
         <div class="text-danger" asp-validation-summary="ModelOnly"></div>
         <div class="form-group row">
             <div class="col-3 ">
@@ -36,10 +38,10 @@
         </div>
         <div class="form-group row">
             <div class="col-3 offset-3">
-                <input type="submit" value="Create" class="btn btn-primary form-control" />
+                <input type="submit" value="Update" class="btn btn-primary form-control" />
             </div>
             <div class="col-3">
-               <a asp-page="Index" class="btn btn-success form-control">Back To Book List</a> 
+                <a asp-page="Index" class="btn btn-success form-control">Back To Book List</a>
             </div>
         </div>
     </form>
@@ -48,4 +50,6 @@
 @section Scripts{
     <partial name="_ValidationScriptsPartial" />
 }
+
+
 

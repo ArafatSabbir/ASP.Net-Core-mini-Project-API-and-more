@@ -422,3 +422,4 @@ C:\Users\sabbi\Desktop\ASP.Net-Core\BookList\BookList\obj\Debug\netcoreapp3.1\Bo
 C:\Users\sabbi\Desktop\ASP.Net-Core\BookList\BookList\obj\Debug\netcoreapp3.1\BookList.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\sabbi\Desktop\ASP.Net-Core\BookList\BookList\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Index.cshtml.g.cs
 C:\Users\sabbi\Desktop\ASP.Net-Core\BookList\BookList\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Create.cshtml.g.cs
+C:\Users\sabbi\Desktop\ASP.Net-Core\BookList\BookList\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Edit.cshtml.g.cs
