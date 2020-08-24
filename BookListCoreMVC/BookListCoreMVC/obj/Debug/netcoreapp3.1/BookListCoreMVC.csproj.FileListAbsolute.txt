@@ -378,3 +378,4 @@ C:\Users\sabbi\Desktop\ASP.Net-Core\BookListCoreMVC\BookListCoreMVC\bin\Debug\ne
 C:\Users\sabbi\Desktop\ASP.Net-Core\BookListCoreMVC\BookListCoreMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\sabbi\Desktop\ASP.Net-Core\BookListCoreMVC\BookListCoreMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\sabbi\Desktop\ASP.Net-Core\BookListCoreMVC\BookListCoreMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sabbi\Desktop\ASP.Net-Core\BookListCoreMVC\BookListCoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Books\Index.cshtml.g.cs

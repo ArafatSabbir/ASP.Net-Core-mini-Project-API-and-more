@@ -1,0 +1,14 @@
+{
+
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=SABBIR;Database=BookListCoreMVC;MultipleActiveResultSets=True;Trusted_Connection=True;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*"
+}
