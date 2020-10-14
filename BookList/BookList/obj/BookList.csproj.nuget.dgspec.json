@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sabbi\\Desktop\\ASP.Net-Core\\BookList\\BookList\\BookList.csproj": {}
+    "C:\\Users\\sabbi\\Desktop\\GitHub\\ASP.Net-Core\\BookList\\BookList\\BookList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sabbi\\Desktop\\ASP.Net-Core\\BookList\\BookList\\BookList.csproj": {
+    "C:\\Users\\sabbi\\Desktop\\GitHub\\ASP.Net-Core\\BookList\\BookList\\BookList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sabbi\\Desktop\\ASP.Net-Core\\BookList\\BookList\\BookList.csproj",
+        "projectUniqueName": "C:\\Users\\sabbi\\Desktop\\GitHub\\ASP.Net-Core\\BookList\\BookList\\BookList.csproj",
         "projectName": "BookList",
-        "projectPath": "C:\\Users\\sabbi\\Desktop\\ASP.Net-Core\\BookList\\BookList\\BookList.csproj",
+        "projectPath": "C:\\Users\\sabbi\\Desktop\\GitHub\\ASP.Net-Core\\BookList\\BookList\\BookList.csproj",
         "packagesPath": "C:\\Users\\sabbi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sabbi\\Desktop\\ASP.Net-Core\\BookList\\BookList\\obj\\",
+        "outputPath": "C:\\Users\\sabbi\\Desktop\\GitHub\\ASP.Net-Core\\BookList\\BookList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sabbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
