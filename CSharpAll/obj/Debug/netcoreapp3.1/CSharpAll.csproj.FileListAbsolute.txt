@@ -1,0 +1,13 @@
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\CSharpAll\bin\Debug\netcoreapp3.1\CSharpAll.exe
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\CSharpAll\bin\Debug\netcoreapp3.1\CSharpAll.deps.json
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\CSharpAll\bin\Debug\netcoreapp3.1\CSharpAll.runtimeconfig.json
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\CSharpAll\bin\Debug\netcoreapp3.1\CSharpAll.runtimeconfig.dev.json
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\CSharpAll\bin\Debug\netcoreapp3.1\CSharpAll.dll
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\CSharpAll\bin\Debug\netcoreapp3.1\CSharpAll.pdb
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\CSharpAll\obj\Debug\netcoreapp3.1\CSharpAll.csprojAssemblyReference.cache
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\CSharpAll\obj\Debug\netcoreapp3.1\CSharpAll.AssemblyInfoInputs.cache
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\CSharpAll\obj\Debug\netcoreapp3.1\CSharpAll.AssemblyInfo.cs
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\CSharpAll\obj\Debug\netcoreapp3.1\CSharpAll.csproj.CoreCompileInputs.cache
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\CSharpAll\obj\Debug\netcoreapp3.1\CSharpAll.dll
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\CSharpAll\obj\Debug\netcoreapp3.1\CSharpAll.pdb
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\CSharpAll\obj\Debug\netcoreapp3.1\CSharpAll.genruntimeconfig.cache
