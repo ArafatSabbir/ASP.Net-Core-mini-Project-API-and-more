@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qo4pNOSStcyYswmLhobarw6l7iAfqvJRGSCRqvZGfPm4wU8serGdFJpboOvw6bt3sC/MTe5UENUt2+eQbJp0yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sabbi\\Desktop\\GitHub\\ASP.Net-Core\\API\\Core Api01\\Core Api01\\Core Api01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sabbi\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.9\\microsoft.aspnetcore.jsonpatch.3.1.9.nupkg.sha512",
+    "C:\\Users\\sabbi\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.9\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.9.nupkg.sha512",
+    "C:\\Users\\sabbi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\sabbi\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\sabbi\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

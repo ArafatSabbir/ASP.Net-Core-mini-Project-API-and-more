@@ -1,0 +1,25 @@
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\bin\Debug\netcoreapp3.1\Core Api01.exe
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\bin\Debug\netcoreapp3.1\Core Api01.deps.json
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\bin\Debug\netcoreapp3.1\Core Api01.runtimeconfig.json
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\bin\Debug\netcoreapp3.1\Core Api01.runtimeconfig.dev.json
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\bin\Debug\netcoreapp3.1\Core Api01.dll
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\bin\Debug\netcoreapp3.1\Core Api01.pdb
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\obj\Debug\netcoreapp3.1\Core Api01.csprojAssemblyReference.cache
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\obj\Debug\netcoreapp3.1\Core Api01.AssemblyInfoInputs.cache
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\obj\Debug\netcoreapp3.1\Core Api01.AssemblyInfo.cs
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\obj\Debug\netcoreapp3.1\Core Api01.csproj.CoreCompileInputs.cache
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\obj\Debug\netcoreapp3.1\Core Api01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\obj\Debug\netcoreapp3.1\staticwebassets\Core Api01.StaticWebAssets.Manifest.cache
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\obj\Debug\netcoreapp3.1\staticwebassets\Core Api01.StaticWebAssets.xml
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\obj\Debug\netcoreapp3.1\scopedcss\bundle\Core Api01.styles.css
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\obj\Debug\netcoreapp3.1\Core Api01.RazorTargetAssemblyInfo.cache
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\obj\Debug\netcoreapp3.1\Core Api01.csproj.CopyComplete
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\obj\Debug\netcoreapp3.1\Core Api01.dll
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\obj\Debug\netcoreapp3.1\Core Api01.pdb
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\obj\Debug\netcoreapp3.1\Core Api01.genruntimeconfig.cache
