@@ -23,3 +23,9 @@ C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\obj\Debug\n
 C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\obj\Debug\netcoreapp3.1\Core Api01.dll
 C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\obj\Debug\netcoreapp3.1\Core Api01.pdb
 C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\obj\Debug\netcoreapp3.1\Core Api01.genruntimeconfig.cache
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sabbi\Desktop\GitHub\ASP.Net-Core\API\Core Api01\Core Api01\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
