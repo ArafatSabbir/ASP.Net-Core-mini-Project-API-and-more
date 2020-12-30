@@ -83,7 +83,7 @@ namespace Core_Api01.Controllers
             string query = @"
                     update dbo.Department set 
                     DepartmentName = '" + dep.DepartmentName + @"'
-                    where DepartmentId = " + dep.DepartmentID + @" 
+                    where DepartmentId = " + dep.DepartmentId + @" 
                     ";
             DataTable table = new DataTable();
             string sqlDataSource = _configuration.GetConnectionString("EmployeeAppCon");

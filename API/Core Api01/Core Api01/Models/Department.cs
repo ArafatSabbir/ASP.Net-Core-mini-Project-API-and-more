@@ -7,7 +7,7 @@ namespace Core_Api01.Models
 {
     public class Department
     {
-        public int DepartmentID { get; set; }
+        public int DepartmentId { get; set; }
         public string DepartmentName { get; set; }
 
 
