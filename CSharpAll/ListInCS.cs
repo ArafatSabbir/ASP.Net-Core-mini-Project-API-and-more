@@ -10,8 +10,8 @@ namespace CSharpAll
         static void Main(string[] args)
         {
 
-            var myLi = new List<int>() {1, 2, 3, 4};
-            var myLi2 = new List<int>() {1, 2, 3, 4};
+            var myLi = new List<int>() { 1, 2, 3, 4 };
+            var myLi2 = new List<int>() { 1, 2, 3, 4 };
 
 
             // not work because they not pointed to same 
@@ -43,5 +43,5 @@ namespace CSharpAll
         }
 
     }
-    
+
 }

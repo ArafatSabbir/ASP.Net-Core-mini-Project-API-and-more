@@ -9,6 +9,7 @@
     <Compile Remove="Max69Number.cs" />
     <Compile Remove="MyArrayPractice.cs" />
     <Compile Remove="Program.cs" />
+    <Compile Remove="Solution.cs" />
   </ItemGroup>
 
 </Project>
