@@ -19,7 +19,6 @@ namespace CSharpAll
             }
         }
 
-
         public static int Fibonacci(int n)
         {
             if (n==0)
@@ -34,6 +33,31 @@ namespace CSharpAll
             {
                 return Fibonacci(n-1)+ Fibonacci(n-2);
             }
+        }
+
+        public static object BinarySearchIterative(int[] inputArray, int key)
+        {
+            int left = 0;
+            int right = inputArray.Length - 1;
+
+            while (left <= right)
+            {
+                int mid = left + ((right- left) / 2);
+
+                if (key == inputArray[mid])
+                {
+                    return ++mid;
+                }
+                else if (key < inputArray[mid])
+                {
+                    right = mid - 1;
+                }
+                else
+                {
+                    left = mid + 1;
+                }
+            }
+            return "Not found or Array is unsorted";
         }
     }
 }

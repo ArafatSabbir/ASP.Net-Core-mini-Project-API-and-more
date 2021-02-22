@@ -8,7 +8,9 @@ namespace CSharpAll
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(MyAlgorithms.Fibonacci(8));
+            int[] unSortedArr = {2, 10, 1, 6, 3, 5, 7, 12, 8 };
+            int[] sortedArr = {1, 2, 3, 5, 6, 7, 8, 10, 12};
+            Console.WriteLine(MyAlgorithms.BinarySearchIterative(unSortedArr,10));
         }
     }
 }
