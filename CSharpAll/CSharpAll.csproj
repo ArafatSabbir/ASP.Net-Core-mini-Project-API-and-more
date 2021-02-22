@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="ListInCS.cs" />
     <Compile Remove="Max69Number.cs" />
     <Compile Remove="MyArrayPractice.cs" />
     <Compile Remove="Program.cs" />
